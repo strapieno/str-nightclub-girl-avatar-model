@@ -7,13 +7,13 @@ namespace Strapieno\NightClubGirlAvatar\Model;
 interface AvatarAwareInterface
 {
     /**
-     * return string
+     * @return string
      */
-    public function getCover();
+    public function getAvatar();
 
     /**
-     * @param $cover string
-     * @return mixed
+     * @param string $avatar
+     * @return $this
      */
-    public function setCover($cover);
+    public function setAvatar($avatar);
 }

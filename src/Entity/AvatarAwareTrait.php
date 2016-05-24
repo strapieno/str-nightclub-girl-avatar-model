@@ -9,23 +9,23 @@ trait AvatarAwareTrait
     /**
      * @var string
      */
-    protected $cover;
+    protected $avatar;
 
     /**
      * @return string
      */
-    public function getCover()
+    public function getAvatar()
     {
-        return $this->cover;
+        return $this->avatar;
     }
 
     /**
-     * @param string $cover
+     * @param string $avatar
      * @return $this
      */
-    public function setCover($cover)
+    public function setAvatar($avatar)
     {
-        $this->cover = $cover;
+        $this->avatar = $avatar;
         return $this;
     }
 }
