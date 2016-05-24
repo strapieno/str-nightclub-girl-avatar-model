@@ -2,9 +2,9 @@
 namespace Strapieno\NightClubGirlAvatar\Model;
 
 /**
- * Class NightClubGirlAvatarAwareTrait
+ * Class AvatarAwareTrait
  */
-trait NightClubGirlAvatarAwareTrait
+trait AvatarAwareTrait
 {
     /**
      * @var string

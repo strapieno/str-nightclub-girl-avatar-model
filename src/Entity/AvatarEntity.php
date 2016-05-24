@@ -4,9 +4,9 @@ namespace Strapieno\NightClubGirlAvatar\Model;
 use Strapieno\Utils\Model\Entity\ImgMan\ImgManEntity;
 
 /**
- * Class NightClubGirlAvatarEntity
+ * Class AvatarEntity
  */
-class NightClubGirlAvatarEntity extends ImgManEntity
+class AvatarEntity extends ImgManEntity
 {
 
 }

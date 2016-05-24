@@ -2,9 +2,9 @@
 namespace Strapieno\NightClubGirlAvatar\Model;
 
 /**
- * Interface NightClubGirlAvatarAwareInterface
+ * Interface AvatarAwareInterface
  */
-interface NightClubGirlAvatarAwareInterface
+interface AvatarAwareInterface
 {
     /**
      * return string
