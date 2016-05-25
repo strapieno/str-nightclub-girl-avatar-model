@@ -1,12 +1,12 @@
 <?php
-namespace Strapieno\NightClubGirlAvatar\Model;
+namespace Strapieno\NightClubGirlAvatar\Model\Entity;
 
-use Strapieno\Utils\Model\Entity\ImgMan\ImgManEntity;
+use ImgMan\Apigility\Entity\ImageEntity;
 
 /**
  * Class AvatarEntity
  */
-class AvatarEntity extends ImgManEntity
+class AvatarEntity extends ImageEntity
 {
 
 }

@@ -1,5 +1,5 @@
 <?php
-namespace Strapieno\NightClubGirlAvatar\Model;
+namespace Strapieno\NightClubGirlAvatar\Model\Entity;
 
 /**
  * Class AvatarAwareTrait
